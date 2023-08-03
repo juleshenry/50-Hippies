@@ -1,0 +1,1 @@
+print('An open source vidya made with löve, literally, from Austin, TX, USA.')
